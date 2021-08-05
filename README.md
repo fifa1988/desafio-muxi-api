@@ -23,7 +23,7 @@ mvn spring-boot:run
 
 Para acessar a documentação localhost acesse o link: http://localhost:5000/swagger-ui.html#/
 
-Se estiver apontando para o Heroku acesse: http://localhost:5000/swagger-ui.html#/
+Se estiver apontando para o Heroku acesse: https://api-desafio-muxi.herokuapp.com/swagger-ui.html#/
 
 
 # Outras informações
